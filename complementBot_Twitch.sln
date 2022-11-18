@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "complementBot_Twitch", "complementBot_Twitch.njsproj", "{7406AB10-419C-4F49-9761-4E1CE0F8DB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7406AB10-419C-4F49-9761-4E1CE0F8DB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7406AB10-419C-4F49-9761-4E1CE0F8DB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7406AB10-419C-4F49-9761-4E1CE0F8DB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7406AB10-419C-4F49-9761-4E1CE0F8DB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD0AFDCE-48D8-43C4-A79D-AC65795EE140}
+	EndGlobalSection
+EndGlobal

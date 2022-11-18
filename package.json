@@ -1,0 +1,20 @@
+{
+  "name": "complement-bot_twitch",
+  "version": "0.0.0",
+  "description": "complementBot_Twitch",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ereiarrus",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "license": "MIT",
+  "eslintConfig": {},
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "tmi.js": "^1.8.5"
+  }
+}
