@@ -8,8 +8,8 @@ Make sure to edit the following files:
 - IGNORED_USERS - the users which you don't want to be complemented;
 
 Then:
+
 		npm install tmi.js
 		npm i line-reader --save
 		
 		npm start
-

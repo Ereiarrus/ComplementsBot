@@ -1,7 +1,8 @@
-AUTH_TOKEN
+.firebase_config.json
+
 CHANNELS
 COMPLEMENT_CHANCE
-
+IGNORED_USERS
 
 # Logs
 logs
